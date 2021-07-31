@@ -8,6 +8,7 @@
 - __Test-Driven Development By Example__ by Kent Beck [book] [en]
 - [TDD au délà de l'intro par Romeu Moura - conférence Alpecraft 2021](https://youtu.be/RlkgetzDenI) [video] [fr]
 - [5 TDD demonstration videos by Michael Azerhad - Wealcome company](https://www.youtube.com/channel/UCdcsr2L2WC0OON39Ar3hBKQ/videos) [video] [fr]
+- [Replacing Mocks by Ryan Harter](https://ryanharter.com/blog/2020/06/replacing-mocks/)
 
 ## CQRS
 __browse [Udi Dahan](https://udidahan.com/) website__ and especially those below
