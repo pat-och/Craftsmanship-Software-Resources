@@ -3,6 +3,7 @@
 ## Hexagonal/Clean architecture
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together by Herbeto Graca](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) [article] [en]
 - [Architecture Hexagonale : trois principes et un exemple d’implémentation by Sébastien Roccaserra - blog Octo](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation) [article] [fr]
+- [Just Stop It! The Domain Model Is Not The Persistence Model - blog Sapiens works](https://blog.sapiensworks.com/post/2012/04/07/Just-Stop-It!-The-Domain-Model-Is-Not-The-Persistence-Model.aspx) [en]
 
 ## TDD
 - __Test-Driven Development By Example__ by Kent Beck [book] [en]
