@@ -1,5 +1,7 @@
 # resources
 
+below are some references that guided me in deep comprehension why and how to do clean, robust and secure code with optimum agility
+
 ## Hexagonal/Clean architecture
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together by Herbeto Graca](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) [article] [en]
 - [Architecture Hexagonale : trois principes et un exemple d’implémentation by Sébastien Roccaserra - blog Octo](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation) [article] [fr]
