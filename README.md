@@ -1,4 +1,4 @@
-# __My favorites Craftsmanship Software Resources__
+# __My favourites Craftsmanship Software Resources__
 
 below are some references (PHP oriented for some of them) that guided me in deep comprehension for the Why and the How to do clean, robust and secure code with optimum agility
 
