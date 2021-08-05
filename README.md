@@ -30,4 +30,7 @@ __browse [Udi Dahan](https://udidahan.com/) website__ and especially those below
 - [5 TDD demonstration videos by Michael Azerhad - Wealcome company](https://www.youtube.com/channel/UCdcsr2L2WC0OON39Ar3hBKQ/videos) [video] [fr]
 - [Replacing Mocks by Ryan Harter](https://ryanharter.com/blog/2020/06/replacing-mocks/) [article] [en]
 
-_if you want to share resources, don't hesitate to submit them to me, if I understand them well (^^) and if I like them, they will join the list_
+## DDD
+_Unfortunately I don't have any material here yet as this is my next study subject_
+
+___if you want to share some useful resources, no hesitation ! submit them, if I understand them well (^^) and if I like them, they will join the list___
