@@ -8,18 +8,18 @@ _Aucun de nous ne sait ce que nous savons tous, ensemble. ~ Lao Tseu_
 - [Clean Code Cheat Sheet](https://www.planetgeek.ch/wp-content/uploads/2014/11/Clean-Code-V2.4.pdf) [pdf] [en]
 
 ## HEXAGONAL/CLEAN ARCHITECTURE
-- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)by Herbeto Graca [article] [en]
-- [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation) [article] by Sébastien Roccaserra [fr]
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) by Herbeto Graca [article] [en]
+- [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation) by Sébastien Roccaserra [article] [fr]
 - [Just Stop It! The Domain Model Is Not The Persistence Model](https://blog.sapiensworks.com/post/2012/04/07/Just-Stop-It!-The-Domain-Model-Is-Not-The-Persistence-Model.aspx) - blog Sapiens works [en]
 - [how to implement clean architecture with laravel](https://dev.to/bdelespierre/how-to-implement-clean-architecture-with-laravel-2f2i) by Benjamin Delespierre [article] [fr]
 
 ## CQRS
-__browse [Udi Dahan](https://udidahan.com/) website__ and especially those below
-- [Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/) [article] [en]
-- [When to avoid CQRS](https://udidahan.com/2011/04/22/when-to-avoid-cqrs/) [article] [en]
-
 - [CQRS Documents](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf) by Greg Young [pdf] [en]
 - [CQRS is simple](https://gist.github.com/raykolbe/5623035) by Raymond Kolbe [en]
+
+__browse [Udi Dahan website](https://udidahan.com/)__ and especially those 2 articles :
+- [Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/) [article] [en]
+- [When to avoid CQRS](https://udidahan.com/2011/04/22/when-to-avoid-cqrs/) [article] [en]
 
 ## EVENT SOURCING
 - [List maker - CQRS, EVENT SOURCING EXAMPLE](https://github.com/renan-taranto/cqrs-event-sourcing-example) by Renan Taranto [projet] [Symfony, SSE Mercure, DDD] [en]
