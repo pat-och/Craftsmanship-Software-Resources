@@ -18,6 +18,8 @@ __browse [Udi Dahan](https://udidahan.com/) website__ and especially those below
 - [Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/) [article] [en]
 - [When to avoid CQRS](https://udidahan.com/2011/04/22/when-to-avoid-cqrs/) [article] [en]
 
+- [CQRS Documents by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
+
 ## EVENT SOURCING
 - [List maker - CQRS, EVENT SOURCING EXAMPLE by Renan Taranto](https://github.com/renan-taranto/cqrs-event-sourcing-example) [projet] [Symfony, SSE Mercure, DDD] [en]
 
