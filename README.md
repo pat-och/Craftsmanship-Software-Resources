@@ -4,6 +4,9 @@ Here are some references (some of them PHP oriented) that guided me to a deep un
 
 _Aucun de nous ne sait ce que nous savons tous, ensemble. ~ Lao Tseu_
 
+## CLEAN CODE
+- [Clean Code Cheat Sheet](https://www.planetgeek.ch/wp-content/uploads/2014/11/Clean-Code-V2.4.pdf) [pdf] [en]
+
 ## HEXAGONAL/CLEAN ARCHITECTURE
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together by Herbeto Graca](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) [article] [en]
 - [Architecture Hexagonale : trois principes et un exemple d’implémentation by Sébastien Roccaserra - blog Octo](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation) [article] [fr]
