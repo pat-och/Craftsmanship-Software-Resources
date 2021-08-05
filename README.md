@@ -1,4 +1,4 @@
-# __My favourites Craftsmanship Software Resources__
+# __My favourites Craftsmanship Software awesome resources__
 
 Here are some references (some of them PHP oriented) that guided me to a deep understanding of the Why and How to make clean, robust and secure applications with optimal agility.
 
@@ -19,7 +19,7 @@ __browse [Udi Dahan](https://udidahan.com/) website__ and especially those below
 - [When to avoid CQRS](https://udidahan.com/2011/04/22/when-to-avoid-cqrs/) [article] [en]
 
 ## EVENT SOURCING
-- [List maker - CQRS, EVENT SOURCING EXAMPLE by Renan Taranto](https://github.com/renan-taranto/cqrs-event-sourcing-example) [projet] [en] [Symfony, SSE Mercure, DDD]
+- [List maker - CQRS, EVENT SOURCING EXAMPLE by Renan Taranto](https://github.com/renan-taranto/cqrs-event-sourcing-example) [projet] [Symfony, SSE Mercure, DDD] [en]
 
 ## CRAFTSMANSHIP SOFTWARE
 - [Mathias Noback website - craftsman, PHP programmer, writer](https://matthiasnoback.nl/) [article] [en]
