@@ -1,6 +1,6 @@
 # __My favourites Craftsmanship Software awesome resources__
 
-Here are some references that guided me to a deep understanding of the Why and How to make clean, robust and secure applications with optimal agility (some are in php but it doesn't matter, you will learn something useful)
+Here are some references that guided me to a deep understanding of the Why and How to make clean, robust and secure applications with optimal agility (some are in php but it doesn't matter, you will learn something useful). Many Many thanks to all authors.
 
 _Aucun de nous ne sait ce que nous savons tous, ensemble. ~ Lao Tseu_
 
@@ -19,7 +19,7 @@ __browse [Udi Dahan](https://udidahan.com/) website__ and especially those below
 - [When to avoid CQRS](https://udidahan.com/2011/04/22/when-to-avoid-cqrs/) [article] [en]
 
 - [CQRS Documents by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
-- [CQRS is simple](https://gist.github.com/raykolbe/5623035)[en]
+- [CQRS is simple] by Raymond Kolbe (https://gist.github.com/raykolbe/5623035)[en]
 
 ## EVENT SOURCING
 - [List maker - CQRS, EVENT SOURCING EXAMPLE by Renan Taranto](https://github.com/renan-taranto/cqrs-event-sourcing-example) [projet] [Symfony, SSE Mercure, DDD] [en]
