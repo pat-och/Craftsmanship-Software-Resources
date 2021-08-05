@@ -1,6 +1,6 @@
 # __My favourites Craftsmanship Software Resources__
 
-below are some references (PHP oriented for some of them) that guided me in deep comprehension for the Why and the How to do clean, robust and secure code with optimum agility
+Here are some references (some of them PHP oriented) that guided me to a deep understanding of the Why and How to make clean, robust and secure applications with optimal agility.
 
 _Aucun de nous ne sait ce que nous savons tous, ensemble. ~ Lao Tseu_
 
