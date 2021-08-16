@@ -35,6 +35,7 @@ __browse [Udi Dahan website](https://udidahan.com/)__ and especially those 2 art
 - [Replacing Mocks](https://ryanharter.com/blog/2020/06/replacing-mocks/) by Ryan Harter [article] [en]
 
 ## DDD
+- [CQRS, Fonctionnel, Event Sourcing & Domain Driven Design](https://youtu.be/qBLtZN3p3FU) bt Arnaud Lemaire - PHP Tour 2018 [video] [fr]
 _Unfortunately I don't have any material here yet as this is my next study subject_
 
 ___if you want to share some useful resources, no hesitation ! submit them, if I understand them well (^^) and if I like them, they will join the list___
