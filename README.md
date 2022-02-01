@@ -26,6 +26,7 @@ __browse [Udi Dahan website](https://udidahan.com/)__ and especially those 2 art
 
 ## EVENT SOURCING
 - [List maker - CQRS, EVENT SOURCING EXAMPLE](https://github.com/renan-taranto/cqrs-event-sourcing-example) by Renan Taranto [projet] [Symfony, SSE Mercure, DDD] [en]
+- [domain events salvation](https://udidahan.com/2009/06/14/domain-events-salvation/) by Udi Dahan [article] [en]
 
 ## CRAFTSMANSHIP SOFTWARE
 - [Mathias Noback website - craftsman, PHP programmer, writer](https://matthiasnoback.nl/) [article] [en]
