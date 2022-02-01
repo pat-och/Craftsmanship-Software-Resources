@@ -13,6 +13,8 @@ _Aucun de nous ne sait ce que nous savons tous, ensemble. ~ Lao Tseu_
 - [Just Stop It! The Domain Model Is Not The Persistence Model](https://blog.sapiensworks.com/post/2012/04/07/Just-Stop-It!-The-Domain-Model-Is-Not-The-Persistence-Model.aspx) - blog Sapiens works [en]
 - [how to implement clean architecture with laravel](https://dev.to/bdelespierre/how-to-implement-clean-architecture-with-laravel-2f2i) by Benjamin Delespierre [article] [fr]
 - [does it belong in the application or domain layer](https://matthiasnoback.nl/2021/02/does-it-belong-in-the-application-or-domain-layer/) by Matthias Noback [article] [en]
+- [Domain model purity vs. domain model completeness (DDD Trilemma)](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/) by Vladimir Khorikov [article] [en]
+
 
 ## CQRS
 - [CQRS Documents](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf) by Greg Young [pdf] [en]
