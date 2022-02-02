@@ -11,8 +11,8 @@ _Aucun de nous ne sait ce que nous savons tous, ensemble. ~ Lao Tseu_
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) by Herbeto Graca [article] [en]
 - [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation) by Sébastien Roccaserra [article] [fr]
 - [Just Stop It! The Domain Model Is Not The Persistence Model](https://blog.sapiensworks.com/post/2012/04/07/Just-Stop-It!-The-Domain-Model-Is-Not-The-Persistence-Model.aspx) - blog Sapiens works [en]
-- [how to implement clean architecture with laravel](https://dev.to/bdelespierre/how-to-implement-clean-architecture-with-laravel-2f2i) by Benjamin Delespierre [article] [fr]
-- [does it belong in the application or domain layer](https://matthiasnoback.nl/2021/02/does-it-belong-in-the-application-or-domain-layer/) by Matthias Noback [article] [en]
+- [How to implement clean architecture with laravel](https://dev.to/bdelespierre/how-to-implement-clean-architecture-with-laravel-2f2i) by Benjamin Delespierre [article] [fr]
+- [Does it belong in the application or domain layer](https://matthiasnoback.nl/2021/02/does-it-belong-in-the-application-or-domain-layer/) by Matthias Noback [article] [en]
 - [Domain model purity vs. domain model completeness (DDD Trilemma)](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/) by Vladimir Khorikov [article] [en]
 
 
@@ -24,9 +24,9 @@ __browse [Udi Dahan website](https://udidahan.com/)__ and especially those 2 art
 - [Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/) [article] [en]
 - [When to avoid CQRS](https://udidahan.com/2011/04/22/when-to-avoid-cqrs/) [article] [en]
 
-## EVENT SOURCING
+## EVENT DRIVEN ARCHTECTURE, EVENT SOURCING
 - [List maker - CQRS, EVENT SOURCING EXAMPLE](https://github.com/renan-taranto/cqrs-event-sourcing-example) by Renan Taranto [projet] [Symfony, SSE Mercure, DDD] [en]
-- [domain events salvation](https://udidahan.com/2009/06/14/domain-events-salvation/) by Udi Dahan [article] [en]
+- [Domain events salvation](https://udidahan.com/2009/06/14/domain-events-salvation/) by Udi Dahan [article] [en]
 
 ## CRAFTSMANSHIP SOFTWARE
 - [Mathias Noback website - craftsman, PHP programmer, writer](https://matthiasnoback.nl/) [article] [en]
@@ -37,7 +37,5 @@ __browse [Udi Dahan website](https://udidahan.com/)__ and especially those 2 art
 - [5 TDD demonstration videos](https://www.youtube.com/channel/UCdcsr2L2WC0OON39Ar3hBKQ/videos) by Michael Azerhad [video] [fr]
 - [Replacing Mocks](https://ryanharter.com/blog/2020/06/replacing-mocks/) by Ryan Harter [article] [en]
 
-## DDD
-_Unfortunately I don't have any material here yet as this is my next study subject_
 
 ___if you want to share some useful resources, no hesitation ! submit them, if I understand them well (^^) and if I like them, they will join the list___
