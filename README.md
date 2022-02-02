@@ -24,7 +24,7 @@ __browse [Udi Dahan website](https://udidahan.com/)__ and especially those 2 art
 - [Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/) [article] [en]
 - [When to avoid CQRS](https://udidahan.com/2011/04/22/when-to-avoid-cqrs/) [article] [en]
 
-## EVENT DRIVEN ARCHTECTURE, EVENT SOURCING
+## EVENT DRIVEN ARCHITECTURE, EVENT SOURCING
 - [List maker - CQRS, EVENT SOURCING EXAMPLE](https://github.com/renan-taranto/cqrs-event-sourcing-example) by Renan Taranto [projet] [Symfony, SSE Mercure, DDD] [en]
 - [Domain events salvation](https://udidahan.com/2009/06/14/domain-events-salvation/) by Udi Dahan [article] [en]
 
