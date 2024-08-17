@@ -5,7 +5,7 @@ Here are some references that guided me to a deep understanding of the Why and H
 _Aucun de nous ne sait ce que nous savons tous, ensemble. ~ Lao Tseu_
 
 ## DDD
-- [DDD Trilemna](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/) by Vladimir Khorikow [en]
+- [DDD Trilemna](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/) by Vladimir Khorikov [en]
 
 ## CLEAN CODE
 - [Clean Code Cheat Sheet](https://www.planetgeek.ch/wp-content/uploads/2014/11/Clean-Code-V2.4.pdf) [pdf] [en]
